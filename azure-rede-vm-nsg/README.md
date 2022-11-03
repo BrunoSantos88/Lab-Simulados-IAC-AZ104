@@ -5,9 +5,9 @@ frontend - backend - nsg e arquitetura de redes
 Network 192.1.0.0/16
 subnet 192.1.0.0/24
 
-- NSG
-- interface-de-rede 
-- IP publico
+- NSG---porta:80-porta:22-porta:3306
+- interface-de-rede-conectada ao NSG 
+- IP's publico VM frontend e Backend
 
  </div>
   
