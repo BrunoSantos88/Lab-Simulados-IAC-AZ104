@@ -3,10 +3,9 @@ terraform-azurerm-
 
 Commandos 
 
-terraform init
-terraform fmt 
-Terraform apply -auto-approve
-
+terraform init </p>
+terraform fmt  </p>
+Terraform apply -auto-approve </p>
 
 
  </div>
