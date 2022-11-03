@@ -4,9 +4,6 @@ Lab-Azure-IAC-bootcamp-az104
 
  </div>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
 <p align="left">
        
 
