@@ -1,5 +1,12 @@
 
-Lab-Azure-IAC-bootcamp-az104
+terraform-azurerm-
+
+Commandos 
+
+terraform init
+terraform fmt 
+Terraform apply -auto-approve
+
 
 
  </div>
