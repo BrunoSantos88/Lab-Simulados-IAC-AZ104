@@ -9,8 +9,8 @@ Lab-Azure-IAC-bootcamp-az104
 Print Diagrama 
 <img align="center" alt="diagrama" height="500" width="1200" src= "https://user-images.githubusercontent.com/91704169/199814206-cb500166-cac3-4059-a33e-93791f3fe6b3.png"/> </p>
        
-
-<img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> </p>
+</p>
+<img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
 <img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
 <img align="center" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870232-065456b5-5987-47d6-8216-ef4e090596a1.png"/>
