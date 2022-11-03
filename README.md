@@ -7,7 +7,7 @@ Lab-Azure-IAC-bootcamp-az104
 <p align="left">
 
 Print Diagrama 
-<img align="center" alt="diagrama" height="700" width="700" src= "https://user-images.githubusercontent.com/91704169/199814206-cb500166-cac3-4059-a33e-93791f3fe6b3.png"/>
+<img align="center" alt="diagrama" height="700" width="500" src= "https://user-images.githubusercontent.com/91704169/199814206-cb500166-cac3-4059-a33e-93791f3fe6b3.png"/>
        
 
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
