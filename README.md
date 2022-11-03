@@ -1,11 +1,7 @@
 
-terraform-azurerm-
+terraform-azurerm
 
-Commandos 
 
-terraform init </p>
-terraform fmt  </p>
-Terraform apply -auto-approve </p>
 
 
  </div>
