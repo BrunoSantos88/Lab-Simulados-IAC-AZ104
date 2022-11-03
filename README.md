@@ -5,6 +5,9 @@ Lab-Azure-IAC-bootcamp-az104
  </div>
   
 <p align="left">
+
+Print Diagrama 
+<img align="center" alt="diagrama" height="800" width="1200" src= "https://user-images.githubusercontent.com/91704169/194937390-c92e6555-3db6-41ac-b831-60e4ab1f409a.png"/>
        
 
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
