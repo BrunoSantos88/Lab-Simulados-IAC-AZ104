@@ -1,5 +1,5 @@
 resource "azurerm_linux_virtual_machine" "frontend" {
-  name                = "teste-machine"
+  name                = "frontend-machine"
   resource_group_name = var.resource_group_name_group
   location            = var.resource_group_name_location
   size                = "Standard_F2"
