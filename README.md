@@ -43,8 +43,6 @@
    - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
    - Conhecimentos SQL.
    - Conhecimentos Banco de Dados: Relacional. 
-         
-<img src="" min-width="70px" max-width="70px" width="70
 
 💌 Entre em contato comigo :) // contact me ⤵
 </p>
