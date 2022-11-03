@@ -1,8 +1,13 @@
 
-terraform-azurerm
+terraform-azurerm-arquitetura monolitica. 
+frontend - backend - nsg e arquitetura de redes
 
+Network 192.1.0.0/16
+subnet 192.1.0.0/24
 
-
+- NSG
+- interface-de-rede 
+- IP publico
 
  </div>
   
