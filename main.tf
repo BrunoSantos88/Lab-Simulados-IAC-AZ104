@@ -1,3 +1,3 @@
 module "projetodevops" {
-  source       = "./azure-iac-aks"
+  source       = "./Aksdefault"
 }
