@@ -1,3 +1,3 @@
 module "projetodevops" {
-  source       = "./Aksdefault"
+  source       = "./aks"
 }
