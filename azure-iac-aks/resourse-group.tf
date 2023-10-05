@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "name" {
-  name     = "apoloazure"
+  name     = "azaks"
   location = "eastus"
 }

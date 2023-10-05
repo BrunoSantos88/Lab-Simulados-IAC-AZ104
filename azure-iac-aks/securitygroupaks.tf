@@ -40,7 +40,7 @@ resource "azurerm_network_security_group" "example" {
   }
 
   security_rule {
-    name                       = "kubenrtes"
+    name                       = "kubenetes"
     priority                   = 104
     direction                  = "Inbound"
     access                     = "Allow"
