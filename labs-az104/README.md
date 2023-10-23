@@ -1,6 +1,6 @@
 # Labs Az-104
 
-# A Tailwind Traders está migrando suas necessidades de armazenamento para o Azure. Você implantou com êxito um disco gerenciado em um grupo de recursos. Você decidiu criar um modelo do Azure Resource Manager para simplificar as outras implantações de disco.
+- A Tailwind Traders está migrando suas necessidades de armazenamento para o Azure. Você implantou com êxito um disco gerenciado em um grupo de recursos. Você decidiu criar um modelo do Azure Resource Manager para simplificar as outras implantações de disco.
 
 - Diagrama de arquitetura
 </p>
