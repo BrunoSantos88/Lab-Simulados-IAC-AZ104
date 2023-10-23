@@ -3,8 +3,7 @@
  - Perguntas duvidas
 
  # Score
- # 50%
-
+ - Outubro 50%
 
  # Simulado az104 - Udemy
 
