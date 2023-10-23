@@ -4,7 +4,7 @@
 
 - Diagrama de arquitetura
 </p>
-<img src="https://user-images.githubusercontent.com/91704169/277471170-0fe93007-4e48-4e2d-ba1f-a7ec21f2ada4.png" min-width=1000px" max-width="100px" width="100px" align="center" alt="Lab03">
+<img src="https://user-images.githubusercontent.com/91704169/277471170-0fe93007-4e48-4e2d-ba1f-a7ec21f2ada4.png" min-width=1000px" max-width="1000px" width="100px" align="center" alt="Lab03">
 
 </p>
 
