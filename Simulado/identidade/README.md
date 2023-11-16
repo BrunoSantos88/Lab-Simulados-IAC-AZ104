@@ -116,7 +116,7 @@ Qual edição do Azure AD você deve usar?
 
 - R: Licença P1
 
-  # QUESTION 5
+ # QUESTION 5
 - Você tem uma assinatura do Azure que contém vários usuários e administradores.
 
 Você está criando uma nova função personalizada usando o JSON a seguir.
