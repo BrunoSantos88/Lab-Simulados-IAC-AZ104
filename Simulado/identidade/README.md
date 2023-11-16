@@ -56,9 +56,19 @@ Qual instrução descreve com precisão o usuário?
 # Question 3
 
 - Você planeja criar 100 novos usuários usando a operação Criar usuários em massa no portal do Azure.
-
+- 
 Você precisa criar um arquivo CSV que contenha as informações do usuário.
 
 Quais atributos você deve especificar no arquivo CSV para cada usuário?
 
 R: displayName, userPrincipalName, passwordProfile e accountEnabled
+
+# QUESTION 4
+
+- Seu locatário do Azure AD e o domínio do Active Directory local contêm vários usuários.
+  
+Você precisa configurar a funcionalidade de write-back de senha SSPR (redefinição de senha por autoatendimento). A solução precisa minimizar custos.
+
+Qual edição do Azure AD você deve usar?
+
+- R: Licença P1
