@@ -215,9 +215,25 @@ Um usuário chamado Admin1 deve ser capaz de alterar as configurações de Netwo
 
 Você precisa usar o PowerShell para atribuir ao Admin1 a função e as permissões apropriadas.
 
-# Quais duas instruções do PowerShell você deve usar para concluir a tarefa? Cada resposta correta apresenta uma parte da solução.
+# Quais duas instruções do PowerShell você deve usar para concluVocê tem uma assinatura do Azure e um usuário chamado User1.
+
+Você precisa atribuir ao User1 uma função que permita que o usuário crie e gerencie todos os tipos de recursos na assinatura. A solução deve impedir que o User1 atribua funções a outros usuários.
+
+Qual função RBAC (controle de acesso baseado em função) do Azure você deve atribuir ao User1?ir a tarefa? Cada resposta correta apresenta uma parte da solução.
 
 - R: New-AzRoleAssignment -ObjectId $User.id ` -RoleDefinitionName "Network Contributor" ` -ResourceName Network1 ` -ResourceType Microsoft.Network/virtualNetworks ` -ResourceGroupName RG1
-- R: $User = Get-AzADUser -DisplayName admin1
+- R: $User = Get-AzADUser -DisplayName adminVocê tem uma assinatura do Azure e um usuário chamado User1.
+
+
+  # QUESTION 9
+
+Você precisa atribuir ao User1 uma função que permita que o usuário crie e gerencie todos os tipos de recursos na assinatura. A solução deve impedir que o User1 atribua funções a outros usuários.
+Qual função RBAC (controle de acesso baseado em função) do Azure você deve atribuir ao User1?
+
+R: Colaborador
+
+  
+
+
 
 
