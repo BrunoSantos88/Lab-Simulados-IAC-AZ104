@@ -20,10 +20,10 @@ Habilitar o write-back de senha na SSPR do Microsoft Entra
 
   # QUESION
 
-    - Você tem um locatário do Azure AD que usa o Azure AD Connect para sincronizar com um domínio do AD DS (Active Directory Domain Services).
-    - Você precisa garantir que os usuários possam redefinir a senha do AD DS no portal do Azure. Os usuários devem ser capazes de usar dois métodos para redefinir sua senha.
-    - Quais são as duas ações que você deve executar? Cada resposta correta apresenta uma parte da solução.
+- Você tem um locatário do Azure AD que usa o Azure AD Connect para sincronizar com um domínio do AD DS (Active Directory Domain Services).
+- Você precisa garantir que os usuários possam redefinir a senha do AD DS no portal do Azure. Os usuários devem ser capazes de usar dois métodos para redefinir sua senha.
+- Quais são as duas ações que você deve executar? Cada resposta correta apresenta uma parte da solução.
       
 
-# R: Na redefinição de senha no portal do Azure, defina as configurações de métodos de autenticação.
-# R: Execute o Azure AD Connect e selecione write-back de senha.
+- R: Na redefinição de senha no portal do Azure, defina as configurações de métodos de autenticação.
+- R: Execute o Azure AD Connect e selecione write-back de senha.
