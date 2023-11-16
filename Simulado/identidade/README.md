@@ -77,6 +77,9 @@ Link: https://learn.microsoft.com/pt-br/training/modules/configure-role-based-ac
 
 - Os recursos podem ser implantados em qualquer grupo de recursos novo ou existente. A implantação de recursos em um grupo de recursos torna-se um trabalho no qual você pode acompanhar a execução do modelo. Se a implantação falhar, a saída do trabalho poderá descrever por que a implantação falhou. Se a implantação é um recurso único para um grupo ou um modelo para um grupo, você pode usar as informações para corrigir erros e reimplantar. As implantações são incrementais. Se um grupo de recursos contiver dois aplicativos Web e você decidir implantar um terceiro, os aplicativos Web existentes não serão removidos.
 
+- Link https://learn.microsoft.com/pt-br/training/modules/use-azure-resource-manager/4-create-resource-groups
+- link https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/lock-resources?tabs=json
+
 
 
 # QUESTION 1
