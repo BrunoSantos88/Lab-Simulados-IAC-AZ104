@@ -148,8 +148,7 @@ Você está criando uma nova função personalizada usando o JSON a seguir.
 } 
 
 - Quais três ações podem ser executadas por um usuário que recebe a função personalizada? Cada resposta correta apresenta uma solução completa.
-
-- Selecione todas as respostas aplicáveis.
+Selecione todas as respostas aplicáveis.
 
 - R: Chame o Suporte da Microsoft.
 - R: Crie e leia um instantâneo.
