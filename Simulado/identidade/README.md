@@ -32,6 +32,37 @@ Habilitar o write-back de senha na SSPR do Microsoft Entra
 
 Link: https://learn.microsoft.com/pt-br/entra/identity/users/users-bulk-add
 
+# Usar o RBAC (controle de acesso baseado em função) para garantir que os recursos necessários estejam protegidos e que os usuários ainda possam acessá-los.
+
+- O que você precisa saber sobre o RBAC do Azure
+
+Veja algumas coisas que você pode fazer com o RBAC do Azure:
+
+Permitir que um aplicativo acesse todos os recursos em um grupo de recursos.
+
+Permitir que um usuário gerencie VMs em uma assinatura e que outro usuário gerencie redes virtuais.
+
+Permitir que um grupo de DBAs (administradores de banco de dados) gerencie bancos de dados SQL em uma assinatura.
+
+Permitir que um usuário gerencie todos os recursos em um grupo de recursos, como VMs, sites e sub-redes.
+
+# O que considerar ao usar o RBAC do Azure
+
+- Ao pensar em como implementar funções e atribuições de escopo na organização, considere estes pontos:
+
+Considere os solicitantes. Planeje a estratégia para acomodar todos os tipos de acesso aos recursos. Entidades de segurança são criadas para qualquer coisa que solicite acesso aos recursos. Determine quem são os solicitantes na organização. Os solicitantes podem ser usuários internos ou externos, grupos de usuários, aplicativos e serviços, recursos e assim por diante.
+
+Considere as funções. Examine os tipos de responsabilidades de trabalho e os cenários de trabalho na organização. As funções geralmente são criadas em torno dos requisitos para cumprir tarefas de trabalho ou atingir metas de trabalho. Determinados usuários, como administradores, controladores corporativos e engenheiros, podem exigir um nível de acesso superior ao necessário para a maioria dos usuários. Algumas funções podem ser definidas para fornecer o mesmo acesso a todos os membros de uma equipe ou departamento para recursos ou aplicativos específicos.
+
+Considere o escopo das permissões. Pense em como você pode garantir a segurança controlando o escopo das permissões para atribuições de função. Descreva os tipos de permissões e os níveis de escopo aos quais você precisa dar suporte. Você pode aplicar diferentes níveis de escopo a uma só função para dar suporte a solicitantes em cenários diferentes.
+
+Considere as definições internas ou personalizadas. Examine as definições de função interna no RBAC do Azure. As funções internas podem ser usadas no estado em que se encontram ou ajustadas para atender aos requisitos específicos da organização. Também é possível criar definições de função personalizadas do zero.
+
+- Criando uma Função
+Link: https://learn.microsoft.com/pt-br/training/modules/configure-role-based-access-control/3-create-role-definition
+
+
+
 # QUESTION 1
 
 - Você tem um locatário do Azure AD que usa o Azure AD Connect para sincronizar com um domínio do AD DS (Active Directory Domain Services).
@@ -72,3 +103,5 @@ Você precisa configurar a funcionalidade de write-back de senha SSPR (redefini�
 Qual edição do Azure AD você deve usar?
 
 - R: Licença P1
+
+  # QUESTION 5
