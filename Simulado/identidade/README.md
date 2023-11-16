@@ -73,6 +73,10 @@ Link: https://learn.microsoft.com/pt-br/training/modules/configure-role-based-ac
   
 - Link: https://learn.microsoft.com/pt-br/azure/role-based-access-control/built-in-roles
 
+# Criar grupos de recursos
+
+- Os recursos podem ser implantados em qualquer grupo de recursos novo ou existente. A implantação de recursos em um grupo de recursos torna-se um trabalho no qual você pode acompanhar a execução do modelo. Se a implantação falhar, a saída do trabalho poderá descrever por que a implantação falhou. Se a implantação é um recurso único para um grupo ou um modelo para um grupo, você pode usar as informações para corrigir erros e reimplantar. As implantações são incrementais. Se um grupo de recursos contiver dois aplicativos Web e você decidir implantar um terceiro, os aplicativos Web existentes não serão removidos.
+
 
 
 # QUESTION 1
@@ -233,7 +237,15 @@ Qual função RBAC (controle de acesso baseado em função) do Azure você deve 
 R: Colaborador
 
   
+# QUESTION 10
 
+- Você tem vários grupos de gerenciamento e assinaturas do Azure.
 
+Você deseja impedir a exclusão acidental de recursos.
 
+A quais três tipos de recursos você pode aplicar bloqueios de exclusão? Cada resposta correta apresenta uma solução completa.
+
+- R: grupos de recursos
+- R: Assinaturas
+- R: máquinas virtuais
 
