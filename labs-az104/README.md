@@ -1,10 +1,12 @@
 # Labs Az-104
 
-# A Tailwind Traders está migrando suas necessidades de armazenamento para o Azure. Você implantou com êxito um disco gerenciado em um grupo de recursos. Você decidiu criar um modelo do Azure Resource Manager para simplificar as outras implantações de disco.
+# LAB-03
+
+- A Tailwind Traders está migrando suas necessidades de armazenamento para o Azure. Você implantou com êxito um disco gerenciado em um grupo de recursos. Você decidiu criar um modelo do Azure Resource Manager para simplificar as outras implantações de disco.
 
 - Diagrama de arquitetura
 </p>
-<img src="https://user-images.githubusercontent.com/91704169/277471170-0fe93007-4e48-4e2d-ba1f-a7ec21f2ada4.png" min-width=1000px" max-width="100px" width="100px" align="center" alt="Lab03">
+<img src="https://user-images.githubusercontent.com/91704169/277471170-0fe93007-4e48-4e2d-ba1f-a7ec21f2ada4.png" min-width=1000px" max-width="1000px" width="1000px" align="center" alt="Lab03">
 
 </p>
 
@@ -16,4 +18,4 @@
 
 - Tarefa 3: examinar a implantação baseada em modelo do ARM do disco gerenciado.
 
-- Link. https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%205
+- Link lab https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%205
