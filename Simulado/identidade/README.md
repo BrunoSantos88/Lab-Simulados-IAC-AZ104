@@ -22,6 +22,9 @@ Habilitar o write-back de senha na SSPR do Microsoft Entra
   # Visão geral da colaboração B2B
 
   - A colaboração B2B é um recurso da ID externa do Microsoft Entra que permite a você convidar usuários para colaborar com sua organização. Com a colaboração B2B, você pode compartilhar com segurança os aplicativos e serviços de sua empresa com usuários externos enquanto mantém o controle de seus dados corporativos. Trabalhe de forma segura com parceiros externos, de grande ou pequeno porte, mesmo se eles não tiverem o Microsoft Entra ID ou um departamento de TI.
+ 
+- LInk: https://learn.microsoft.com/pt-br/training/modules/create-users-and-groups-in-azure-active-directory/5-exercise-assign-users-azure-ad-groups
+- LIik: https://learn.microsoft.com/pt-br/entra/external-id/what-is-b2b
 
 
 # QUESION 1
@@ -45,5 +48,3 @@ Qual instrução descreve com precisão o usuário?
 
 - R: O usuário era um convidado no locatário.
 
-- LInk https://learn.microsoft.com/pt-br/training/modules/create-users-and-groups-in-azure-active-directory/5-exercise-assign-users-azure-ad-groups
-- LIik https://learn.microsoft.com/pt-br/entra/external-id/what-is-b2b
