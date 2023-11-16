@@ -215,7 +215,7 @@ Um usuário chamado Admin1 deve ser capaz de alterar as configurações de Netwo
 
 Você precisa usar o PowerShell para atribuir ao Admin1 a função e as permissões apropriadas.
 
-Quais duas instruções do PowerShell você deve usar para concluir a tarefa? Cada resposta correta apresenta uma parte da solução.
+# Quais duas instruções do PowerShell você deve usar para concluir a tarefa? Cada resposta correta apresenta uma parte da solução.
 
 - R: New-AzRoleAssignment -ObjectId $User.id ` -RoleDefinitionName "Network Contributor" ` -ResourceName Network1 ` -ResourceType Microsoft.Network/virtualNetworks ` -ResourceGroupName RG1
 - R: $User = Get-AzADUser -DisplayName admin1
