@@ -151,6 +151,6 @@ Você está criando uma nova função personalizada usando o JSON a seguir.
 
 - Selecione todas as respostas aplicáveis.
 
-R:Chame o Suporte da Microsoft.
-R:Crie e leia um instantâneo.
-R:Leia todas as configurações da máquina virtual.
+- R: Chame o Suporte da Microsoft.
+- R: Crie e leia um instantâneo.
+- R: Leia todas as configurações da máquina virtual.
