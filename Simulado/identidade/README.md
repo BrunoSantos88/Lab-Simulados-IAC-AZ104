@@ -159,7 +159,7 @@ Selecione todas as respostas aplicáveis.
 - Você tem uma assinatura do Azure.
 - Um administrador gerencia o acesso aos recursos no nível do grupo de recursos. O processo de atribuição é automatizado executando o script do PowerShell a seguir todas as noites.
 
-$rg = "RG1" 
+- $rg = "RG1" 
 $RoleName = "CustomRole1" 
 $Role = Get-AzRoleDefinition -Name $RoleName 
 New-AzRoleAssignment -SignInName user1@contoso.com `   
@@ -168,7 +168,7 @@ New-AzRoleAssignment -SignInName user1@contoso.com `
     
 - O User1 não consegue acessar o grupo de recursos RG1. Você descobre que o script falha ao ser concluído para novos usuários.
 
-- Você executa Get-AzRoleDefinition | Format-Table -Property Name, Id e recebe as seguintes informações:
+Você executa Get-AzRoleDefinition | Format-Table -Property Name, Id e recebe as seguintes informações:
 
 Name: Custom Role 1, ID: 111-222-333
 
