@@ -26,6 +26,11 @@ Habilitar o write-back de senha na SSPR do Microsoft Entra
 - LInk: https://learn.microsoft.com/pt-br/training/modules/create-users-and-groups-in-azure-active-directory/5-exercise-assign-users-azure-ad-groups
 - LIik: https://learn.microsoft.com/pt-br/entra/external-id/what-is-b2b
 
+  # Criar usuários em massa no Microsoft Entra ID
+
+-  O Microsoft Entra ID, parte do Microsoft Entra, oferece suporte a operações de criação e exclusão de usuários em massa e oferece suporte ao download de listas de usuários. Basta preencher o modelo de valores separados por vírgulas (CSV) que você pode baixar no portal do Azure.
+
+Link: https://learn.microsoft.com/pt-br/entra/identity/users/users-bulk-add
 
 # QUESION 1
 
@@ -37,7 +42,7 @@ Habilitar o write-back de senha na SSPR do Microsoft Entra
 - R: Na redefinição de senha no portal do Azure, defina as configurações de métodos de autenticação.
 - R: Execute o Azure AD Connect e selecione write-back de senha.
 
-  # QUESTION 2
+# QUESTION 2
 
 - No PowerShell, você executa o cmdlet Get-MgUser para um usuário e recebe os seguintes detalhes:
 Id: 8755b347-3545-3876-3987-999999999999
@@ -48,3 +53,12 @@ Qual instrução descreve com precisão o usuário?
 
 - R: O usuário era um convidado no locatário.
 
+# Question 3
+
+- Você planeja criar 100 novos usuários usando a operação Criar usuários em massa no portal do Azure.
+
+Você precisa criar um arquivo CSV que contenha as informações do usuário.
+
+Quais atributos você deve especificar no arquivo CSV para cada usuário?
+
+R: displayName, userPrincipalName, passwordProfile e accountEnabled
