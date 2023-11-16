@@ -61,6 +61,12 @@ Considere as definições internas ou personalizadas. Examine as definições de
 - Criando uma Função
 Link: https://learn.microsoft.com/pt-br/training/modules/configure-role-based-access-control/3-create-role-definition
 
+# Atribuir funções do Azure usando o Azure PowerShell
+
+- O RBAC (controle de acesso baseado em função) do Azure é o sistema de autorização usado para gerenciar o acesso aos recursos no Azure. Para conceder acesso, você atribui funções a usuários, grupos, entidades de serviço ou identidades gerenciadas em um determinado escopo. Este artigo descreve como atribuir funções usando o Azure PowerShell.
+
+- LInk: https://learn.microsoft.com/pt-br/azure/role-based-access-control/role-assignments-powershell
+
 
 
 # QUESTION 1
