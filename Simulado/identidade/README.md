@@ -67,6 +67,12 @@ Link: https://learn.microsoft.com/pt-br/training/modules/configure-role-based-ac
 
 - LInk: https://learn.microsoft.com/pt-br/azure/role-based-access-control/role-assignments-powershell
 
+# Funções internas do Azure RBAC
+
+- O controle de acesso baseado em função do Azure (RBAC do Azure) tem várias funções internas do Azure que você pode atribuir a usuários, grupos, entidades de serviço e identidades gerenciadas. Atribuições de função são a maneira de controlar o acesso aos recursos do Azure. Se as funções internas não atenderem às necessidades específicas de sua organização, você poderá criar funções personalizadas do Azure próprias. Para obter informações sobre como atribuir funções, consulte Etapas para atribuir uma função do Azure.
+  
+- Link: https://learn.microsoft.com/pt-br/azure/role-based-access-control/built-in-roles
+
 
 
 # QUESTION 1
@@ -191,3 +197,14 @@ O que você deve alterar no script?
 - Selecione somente uma resposta.
 - 
 R: $RoleName = "111-222-333"
+
+
+# Você tem uma assinatura do Azure que contém várias máquinas virtuais.
+
+Você precisa garantir que um usuário chamado User1 possa exibir todos os recursos em um grupo de recursos chamado RG1. Você deve usar o princípio de privilégios mínimos.
+
+# Qual função você deve atribuir ao User1?
+
+R: Leitor
+
+
