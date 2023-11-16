@@ -32,7 +32,7 @@ Habilitar o write-back de senha na SSPR do Microsoft Entra
 
 Link: https://learn.microsoft.com/pt-br/entra/identity/users/users-bulk-add
 
-# QUESION 1
+# QUESTION 1
 
 - Você tem um locatário do Azure AD que usa o Azure AD Connect para sincronizar com um domínio do AD DS (Active Directory Domain Services).
 - Você precisa garantir que os usuários possam redefinir a senha do AD DS no portal do Azure. Os usuários devem ser capazes de usar dois métodos para redefinir sua senha.
