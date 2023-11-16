@@ -190,7 +190,6 @@ Name: Contributor, ID: 333-444-555
 
 Name: Reader, ID: 666-777-888
 
-
 # Você precisa modificar o script para garantir que ele não falhe no futuro.
 O que você deve alterar no script?
 
@@ -199,6 +198,7 @@ O que você deve alterar no script?
 R: $RoleName = "111-222-333"
 
 
+QUESTION 7
 # Você tem uma assinatura do Azure que contém várias máquinas virtuais.
 
 Você precisa garantir que um usuário chamado User1 possa exibir todos os recursos em um grupo de recursos chamado RG1. Você deve usar o princípio de privilégios mínimos.
@@ -206,5 +206,18 @@ Você precisa garantir que um usuário chamado User1 possa exibir todos os recur
 # Qual função você deve atribuir ao User1?
 
 R: Leitor
+
+# QUESTION 8
+
+- Você tem uma assinatura do Azure que contém um grupo de recursos chamado RG1. O RG1 contém uma máquina virtual chamada VM1 conectada a uma rede virtual chamada Network1.
+
+Um usuário chamado Admin1 deve ser capaz de alterar as configurações de Network1.
+
+Você precisa usar o PowerShell para atribuir ao Admin1 a função e as permissões apropriadas.
+
+Quais duas instruções do PowerShell você deve usar para concluir a tarefa? Cada resposta correta apresenta uma parte da solução.
+
+- R: New-AzRoleAssignment -ObjectId $User.id ` -RoleDefinitionName "Network Contributor" ` -ResourceName Network1 ` -ResourceType Microsoft.Network/virtualNetworks ` -ResourceGroupName RG1
+- R: $User = Get-AzADUser -DisplayName admin1
 
 
