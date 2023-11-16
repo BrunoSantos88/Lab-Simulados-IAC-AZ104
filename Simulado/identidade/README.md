@@ -15,18 +15,18 @@ Habilitar o write-back de senha na SSPR do Microsoft Entra
 - Permissões de gravação em pwdLastSet
 - Direitos estendidos para "Não permitir expiração da senha" no objeto raiz de cada domínio nessa floresta, caso ainda não estejam definidos.
 
-  # Implemnetar
+
+# Implemnetar
   Link https://learn.microsoft.com/pt-br/training/modules/allow-users-reset-their-password/3-implement-azure-ad-self-service-password-reset
 
-
-  # Visão geral da colaboração B2B
+# Visão geral da colaboração B2B
 
   - A colaboração B2B é um recurso da ID externa do Microsoft Entra que permite a você convidar usuários para colaborar com sua organização. Com a colaboração B2B, você pode compartilhar com segurança os aplicativos e serviços de sua empresa com usuários externos enquanto mantém o controle de seus dados corporativos. Trabalhe de forma segura com parceiros externos, de grande ou pequeno porte, mesmo se eles não tiverem o Microsoft Entra ID ou um departamento de TI.
  
 - LInk: https://learn.microsoft.com/pt-br/training/modules/create-users-and-groups-in-azure-active-directory/5-exercise-assign-users-azure-ad-groups
 - LIik: https://learn.microsoft.com/pt-br/entra/external-id/what-is-b2b
 
-  # Criar usuários em massa no Microsoft Entra ID
+# Criar usuários em massa no Microsoft Entra ID
 
 -  O Microsoft Entra ID, parte do Microsoft Entra, oferece suporte a operações de criação e exclusão de usuários em massa e oferece suporte ao download de listas de usuários. Basta preencher o modelo de valores separados por vírgulas (CSV) que você pode baixar no portal do Azure.
 
@@ -105,3 +105,52 @@ Qual edição do Azure AD você deve usar?
 - R: Licença P1
 
   # QUESTION 5
+- Você tem uma assinatura do Azure que contém vários usuários e administradores.
+
+Você está criando uma nova função personalizada usando o JSON a seguir.
+
+{ 
+
+  "Name": "Custom Role", 
+
+  "Id": null, 
+
+  "IsCustom": true, 
+
+  "Description": "Custom Role description", 
+
+  "Actions": [ 
+
+    "Microsoft.Compute/*/read", 
+
+    “Microsoft.Compute/snapshots/write”, 
+
+    “Microsoft.Compute/snapshots/read”, 
+
+    "Microsoft.Support/*" 
+
+  ], 
+
+  "NotActions": [ 
+
+  “Microsoft.Compute/snapshots/delete” 
+
+  ], 
+
+  "AssignableScopes": [ 
+
+    "/subscriptions/00000000-0000-0000-0000-000000000000", 
+
+    "/subscriptions/11111111-1111-1111-1111-111111111111" 
+
+  ] 
+
+} 
+
+- Quais três ações podem ser executadas por um usuário que recebe a função personalizada? Cada resposta correta apresenta uma solução completa.
+
+- Selecione todas as respostas aplicáveis.
+
+R:Chame o Suporte da Microsoft.
+R:Crie e leia um instantâneo.
+R:Leia todas as configurações da máquina virtual.
